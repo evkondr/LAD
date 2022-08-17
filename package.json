@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/evkondr/LAD/issues"
   },
-  "homepage": "https://github.com/evkondr/LAD#readme"
+  "homepage": "https://github.com/evkondr/LAD#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
