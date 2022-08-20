@@ -34,6 +34,7 @@ const magician = {
             "magicArmorPercents": 100,
             "cooldown": 4
         },
-    ]
+    ],
+    usedMoves: []
 };
 module.exports = magician;
